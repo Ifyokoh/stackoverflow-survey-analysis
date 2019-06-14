@@ -23,7 +23,7 @@ The notebook is exploratory in answering the questions above. Markdown cells wer
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://medium.com/@Ifyokoh/this-discovery-will-make-you-rethink-about-contributing-to-open-source-a7177ef7dd5c)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
